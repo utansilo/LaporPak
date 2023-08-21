@@ -1,0 +1,104 @@
+.card-form {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 0.28px;
+    margin-left: 50px;
+    background-color: white;
+    padding-inline: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    border-radius: 12px;
+}
+
+.circle-button {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    align-items: center;
+    background-color: #6E5DE7; /* Ganti dengan warna latar belakang yang diinginkan */
+    color: #ffffff; /* Ganti dengan warna teks yang diinginkan */
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.bton {
+    background-color: #6e5de7;
+    color: white;
+    border-radius: 12px;
+    width: 110px;
+    height: 46px;
+    color: white;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 0.28px;
+    margin-top: 20px;
+}
+
+.form-group {
+    position: relative;
+}
+    
+.form-control {
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+    
+.form-control::placeholder {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 5px;
+    color: #999999;
+}
+      
+.isian-form {
+    font-size: medium;
+    color: #404040;
+    font-size: 10px;
+    font-family: Poppins;
+    line-height: 120%;
+    letter-spacing: 0.2px;
+}
+
+.media {
+    color: #000;
+    font-size: 16px;
+    font-family: Poppins;
+    line-height: 140%;
+    letter-spacing: 0.8px;
+    margin-left: 12px;
+}
+
+.pilihfoto, iconfoto {
+    background-color: #6E5DE7;
+    font-size: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 12px;
+    color: white;
+    border-color: #6E5DE7;
+    box-shadow: none;
+}
+.btn-lg {
+    background-color: #6E5DE7;
+    color: white;
+    border-radius: 12px;
+    width: 206px;
+    height: 42px;
+    color: white;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 0.28px;
+}
+.img {
+    padding-right: 4px;
+}
